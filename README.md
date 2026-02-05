@@ -77,7 +77,7 @@ INSERT INTO products VALUES (102, 'Tea Pack', 'Beverage');
 INSERT INTO products VALUES (103, 'Milk Carton', 'Dairy');
 INSERT INTO products VALUES (104, 'Chocolate Bar', 'Snack');
 ```
-![customers](screenshots/products.png)
+![customers](https://github.com/kprince43/plsql_window_functions_28426_prince1/blob/main/images/Customers.png)
 deliveries
 ```sql
 INSERT INTO deliveries VALUES (301, 1, 101, DATE '2025-09-02', 5.0, 12500.00);
