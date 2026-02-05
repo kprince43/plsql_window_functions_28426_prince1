@@ -88,7 +88,7 @@ INSERT INTO deliveries VALUES (303, 3, 104, DATE '2025-09-11', 2.0, 3000.00);
 
 INSERT INTO deliveries VALUES (304, 4, 102, DATE '2025-09-16', 8.0, 24800.00);
 ```
-![deliveries](screenshots/deliveries.png)
+![deliveries](https://github.com/kprince43/plsql_window_functions_28426_prince1/blob/main/images/deliveries.png)
  4. Window Functions Implementation
 1) Ranking Functions
 ```sql
