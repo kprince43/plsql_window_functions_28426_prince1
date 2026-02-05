@@ -108,7 +108,7 @@ ORDER BY total_amount DESC;
 
 --DENSE_RANK doesn’t leave gaps.
 ```
-![Ranking Query](screenshots/rank.png)
+![Ranking Query](https://github.com/kprince43/plsql_window_functions_28426_prince1/blob/main/images/rank.png)
 2) Aggregate Functions
 Running totals
 ```sql
