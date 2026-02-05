@@ -1,8 +1,8 @@
-# plsql-window-functions-IRADUKUNDA-Marie-Sandrine
+# plsql-window-functions-KWIZERA Prince
 Milk Delivery Company
 # Milk Delivery Company – Window Functions Project  
-**Student:** IRADUKUNDA Marie Sandrine  
-**ID:** 28327  
+**Student:** KWIZERA Prince 
+**ID:** 28426  
 **Course:Database Development with PL/SQL   – AUCA  
 **Instructor:** Mr. Eric Maniraguha  
 
