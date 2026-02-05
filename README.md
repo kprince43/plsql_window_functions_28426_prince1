@@ -69,7 +69,7 @@ INSERT INTO customers VALUES (2, 'John Niyonsenga', 'Musanze');
 INSERT INTO customers VALUES (3, 'Grace Mukamana', 'Huye');
 INSERT INTO customers VALUES (4, 'Eric Habimana', 'Rubavu');
 ```
-![customers](screenshots/Customers.png)
+![customers](https://github.com/kprince43/plsql_window_functions_28426_prince1/blob/main/images/products.png)
 products
 ```sql
 INSERT INTO products VALUES (101, 'Coffee Beans', 'Beverage');
